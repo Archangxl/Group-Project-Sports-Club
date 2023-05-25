@@ -1,0 +1,16 @@
+Name: ALEX MUELLER, ANDREW , ARMANDO ROBLES
+Stack: JAVASCRIPT
+Github Repo Link: https://github.com/Kaido1208/SportsClub-Group-Project
+Project Name: SPORTS CLUB
+Project Description: app for sports fans wanting to chat about sports.
+
+MVP features: 
+    -Login / reg
+    -Socket Io 
+    -chat page with live scores
+    -edit profile
+    -reset username
+    -reset password
+
+Bonus features: -live scoring
+                -user profile pictures
